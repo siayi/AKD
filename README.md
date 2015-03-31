@@ -47,4 +47,8 @@ B. Menu Setup User
 
 C. Menu Bagan Akun
 
+<<<<<<< HEAD
 (Uraian Menyusul)
+=======
+(Uraian Menyusul)
+>>>>>>> c2538437e8af8f106f33beca6f547accf57ee5e5
