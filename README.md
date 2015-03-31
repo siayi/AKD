@@ -1,6 +1,8 @@
 # AKD
 Aplikasi Keuangan Desa
 
+(Aplikasi Keuangan Desa ini merupakan modifikasi dari 1.	Aplikasi Akuntansi Keuangan SKPD Berbasis Akrual oleh : Riyanto, SE., MM. [[ http://www.bppk.kemenkeu.go.id/publikasi/artikel/150-artikel-keuangan-umum/19702-penyusunan-laporan-keuangan-pemda-berbasis-akrual-berbantuan-komputer ]])
+
 A. Pendahuluan
 
 Dalam rangka memberikan kemudahan bagi Pelaksana Teknis Pengelolaan Keuangan Desa (PTPKD) untuk menyusun laporan keuangan maka aplikasi sederhana ini hadir.
