@@ -2,6 +2,7 @@
 Aplikasi Keuangan Desa
 
 A. Pendahuluan
+
 Dalam rangka memberikan kemudahan bagi Pelaksana Teknis Pengelolaan Keuangan Desa (PTPKD) untuk menyusun laporan keuangan maka aplikasi sederhana ini hadir.
 
 Aplikasi ini digunakan oleh Pelaksana Teknis Pengelolaan Keuangan Desa (PTPKD) atau fungsi akuntansi Pemerintah Desa Ciburial (http://ciburial.desa.id) yang akan menyusun laporan keuangan Pemerintah Desa Ciburial dengan bantuan aplikasi komputer. 
@@ -12,22 +13,38 @@ Sebagaimana program aplikasi berbantuan komputer lain, aplikasi ini memberikan b
 
 Aplikasi ini dirancang satu file untuk satu bulan, namun dapat juga digunakan untuk satu tahun anggaran. Dalam satu file, aplikasi ini terdiri atas tiga menu utama yang dirinci menjadi sebelas menu, yaitu:
 
-Menu Setup User
+Menu Setup User:
+
 (1) Setup User
+
 (2) Bagan Akun (BAkun) <-- (Belum Ada Bagan Akun Standar untuk Pemerintah Desa)
-Menu Input Data
+
+Menu Input Data:
+
 (3) Saldo Awal
+
 (4) Input APBDesa atau Input Daftar Pelaksanaan Anggaran (DPA) Desa
+
 (5) Input Jurnal
-Menu Cetak
+
+Menu Cetak:
+
 (6) Buku Besar
+
 (7) Neraca Saldo
+
 (8) Laporan Realisasi Anggaran (LRA)
+
 (9) Laporan Operasional (LO)
+
 (10) Laporan Perubahan Ekuitas (LPE)
+
 (11) Neraca / Laporan Kekayaan Milik Desa (berdasarkan : Permendagri 113 Tahun 2014 Tentang Pengelolaan Keuangan Desa)
 
 B. Menu Setup User
+
 (Uraian Menyusul)
+
 C. Menu Bagan Akun
+
 (Uraian Menyusul)
