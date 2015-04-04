@@ -1,7 +1,7 @@
 # AKD
 Aplikasi Keuangan Desa
 
-===Aplikasi Keuangan Desa ini merupakan modifikasi (disesuaikan dengan kebutuhan di Kantor Desa Ciburial) dari Aplikasi Akuntansi Keuangan SKPD Berbasis Akrual oleh : Riyanto, SE., MM. [[ http://www.bppk.kemenkeu.go.id/publikasi/artikel/150-artikel-keuangan-umum/19702-penyusunan-laporan-keuangan-pemda-berbasis-akrual-berbantuan-komputer ]] )===
+===Aplikasi Keuangan Desa ini merupakan modifikasi (disesuaikan dengan kebutuhan di Kantor Desa Ciburial) dari Aplikasi Akuntansi Keuangan SKPD Berbasis Akrual oleh : Riyanto, SE., MM. <code>[[ http://www.bppk.kemenkeu.go.id/publikasi/artikel/150-artikel-keuangan-umum/19702-penyusunan-laporan-keuangan-pemda-berbasis-akrual-berbantuan-komputer ]] </code>)===
 
 A. Pendahuluan
 
